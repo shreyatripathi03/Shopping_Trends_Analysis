@@ -2,7 +2,7 @@
 ## Overview
 Analyzing shopping trends data using Python can provide valuable insights for businesses and retailers to make informed decisions. Below is a project description that outlines the key steps and components of a shopping trends data analysis project using Python. Objective: The objective of this project is to analyze shopping trends based on historical data to identify patterns, preferences, and potential opportunities for businesses and retailers.
 ## Dataset
-- Source: The dataset used in this analysis is available on kaggle. You can access it [Here](https://www.kaggle.com/datasets/iamsouravbanerjee/customer-shopping-trends-dataset.)
+- Source: The dataset used in this analysis is available on kaggle. You can access it [Here](https://www.kaggle.com/datasets/iamsouravbanerjee/customer-shopping-trends-dataset)
 - Columns:The dataset includes various columns such as Customer ID,Age,Gender,Item Purchase,Category,Purchase Amount (USD) and more.
 ## Features
 ### Data Collection:- 
@@ -25,3 +25,5 @@ To explore the analysis follow the steps:
  ```bash
   pip install -r requirements.txt
  ```
+### License
+The project is licenced under the [MIT License]()
