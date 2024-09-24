@@ -4,6 +4,13 @@ Analyzing shopping trends data using Python can provide valuable insights for bu
 ## Dataset
 - Source: The dataset used in this analysis is available on kaggle. You can access it [Here](https://www.kaggle.com/datasets/iamsouravbanerjee/customer-shopping-trends-dataset)
 - Columns:The dataset includes various columns such as Customer ID,Age,Gender,Item Purchase,Category,Purchase Amount (USD) and more.
+## Tools
+-Python
+-Pandas
+-NumPy
+-Matplotlib
+-Seaborn
+-Jupyter
 ## Features
 ### Data Collection:- 
 I had acquired a dataset containing relevant shopping data. This could include information such as purchase history, customer demographics, product details, and transaction timestamps. this is a csv file.
@@ -25,5 +32,7 @@ To explore the analysis follow the steps:
  ```bash
   pip install -r requirements.txt
  ```
+3.Open Shopping_Trends_Analysis.ipynb to explore the analysis.
 ### License
-The project is licenced under the [MIT License]()
+The project is licenced under the [MIT License](https://github.com/shreyatripathi03/Shopping_Trends_Analysis/commit/bf2b58730ce61136ea29a80b78fb81c0ceced0a8#diff-c693279643b8cd5d248172d9c22cb7cf4ed163a3c98c8a3f69c2717edd3eacb7)
+
