@@ -18,4 +18,8 @@ Here, I had Visualized data distribution using histograms, box plots, and scatte
 ## Getting Started
 To explore the analysis follow the steps:
 1. Clone this repository:
+ ```bash
+ git clone https://github.com/shreyatripathi03/Shopping_Trends_Analysis.git
+
+
    
