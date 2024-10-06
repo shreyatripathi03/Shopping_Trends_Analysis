@@ -34,5 +34,5 @@ To explore the analysis follow the steps:
  ```
 3.Open Shopping_Trends_Analysis.ipynb to explore the analysis.
 ### License
-The project is licenced under the [MIT License] (https://github.com/shreyatripathi03/Shopping_Trends_Analysis/blob/main/LICENSE)
+The project is licenced under the [MIT License](https://github.com/shreyatripathi03/Shopping_Trends_Analysis/blob/main/LICENSE)
 
